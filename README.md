@@ -12,10 +12,9 @@
 ## 二、神奇小软件安装
 # 1. 解压安装包
 
-  ```bash
-    tar -zxvf clashpremium-nightly-linux-amd64.tar.gz
+      ```bash tar -zxvf clashpremium-nightly-linux-amd64.tar.gz
 
-参数说明：
+  参数说明：
 
 -z: 处理 gzip 压缩
 
