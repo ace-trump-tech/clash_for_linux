@@ -10,8 +10,11 @@
   ```bash
   git clone https://github.com/ace-trump-tech/clash_for_linux.git
 ## 二、神奇小软件安装
-# 1. 解压安装包
+### 1. 解压安装包
+
    tar -zxvf clashpremium-nightly-linux-amd64.tar.gz
+
+   
   参数说明：
 
 -z: 处理 gzip 压缩
@@ -22,14 +25,14 @@
 
 -f: 指定文件名
 
-# 2. 配置文件放置
+### 2. 配置文件放置
 将 iKuuu_V2.yaml 配置文件移动至解压后的 clash 文件夹内
 
 # 3. 启动 Clash
-bash
+
 ./clash -d .
+
 💡 若提示权限不足，请先执行：
 
-bash
 chmod +x clash
 
